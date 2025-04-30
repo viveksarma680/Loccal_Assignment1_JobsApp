@@ -1,7 +1,9 @@
 # Loccal_Assignment1_JobsApp
 
 
-in Zip file ,i added entire project.
+### { In Zip file ,i added entire project.}
+
+### { i provided apk file also}
 
 
 <img width="1280" alt="Screenshot 2025-04-30 at 11 56 53 PM" src="https://github.com/user-attachments/assets/5e852317-91ec-449a-a1af-6208b692023c" />
